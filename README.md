@@ -2,6 +2,7 @@
   
 
 ### <div align="center">I'm Rithin, a self taught web developer 👨‍💻</div>  
+<br/>
   
 
 - 🔭 I’m currently working in Python Django  
