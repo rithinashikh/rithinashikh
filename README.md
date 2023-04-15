@@ -1,7 +1,7 @@
  
   
 
-### <div align="center">Hi :) I'm Rithin, a self taught web developer 👨‍💻</div>  
+### <div align="center">Hi, I'm Rithin, a self taught web developer 👨‍💻</div>  
 <br/>
   
 
