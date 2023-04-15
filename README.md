@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning React  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to python full stack and related technologies  
   
 
 - ⚡  Fun fact: I erase words using 'Ctrl' and 'Backspace'  
