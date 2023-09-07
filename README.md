@@ -1,14 +1,14 @@
  
   
 
-### <div align="center">Hi, I'm Rithin, a self taught web developer 👨‍💻</div>  
+### <div align="center">Hi, I'm Rithin, a full stack web developer 👨‍💻</div>  
 <br/>
   
 
-- 🔭 I’m currently working in Python Django  
+- 🔭 Personal Favorite: Python codes
   
 
-- 🌱 I’m currently learning React  
+- 🌱 Also like to work in React 
   
 
 - ❓ Ask me about anything related to python full stack and related technologies  
